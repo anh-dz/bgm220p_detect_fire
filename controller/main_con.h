@@ -4,3 +4,4 @@
 #include "em_gpio.h"
 
 // Thêm file mình code bên dưới này
+#include "example.h"
