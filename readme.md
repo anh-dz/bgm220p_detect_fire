@@ -1,2 +1,3 @@
-# Empty C Example
-This example project shows an empty configuration that can be used as a starting point to add components and functionality.
+# BGM220P_fire_detector
+Status: Level 3
+By group 6
